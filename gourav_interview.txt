@@ -1,0 +1,36 @@
+interview
+
+what is database 1
+what is dbms and rdbms and difference 8
+what is sql 7
+what is difference between left outer join and left join 0
+difference between union and joins 0
+what is normalization and its forms 3
+difference between sql and MySQL 0 
+what are joins similar
+111 join 
+what is window function 0
+diff between rank and dense rank 0
+subquery 
+cte 0
+view 0
+difference between union and union all 0
+diff between varchar , char , nvarchar 5
+diff between delete drop truncate 3
+store procedure 0
+what is crud operations 0 
+what is index and types of it clustered and nonclustered 0
+
+
+
+query - from orders table give me the unique values 10
+
+Write a query to fetch the EmpFname from the EmployeeInfo table in the upper case and use the ALIAS name as EmpName. 10
+
+Write a query to fetch the number of employees working in the department ‘HR’. 10
+
+Write a query to find the names of employees that begin with ‘S’ and ends with 'k'  10
+
+emp table and dept table join where all employee should come even if have no department  10
+
+create a table and insert 2 , values and than change the values 10
